@@ -1,0 +1,34 @@
+<div class="toast"
+     [@fadeAnimation]="{value: animationState, params:
+        { fadeIn: toastConfig.animation.fadeIn, fadeOut: toastConfig.animation.fadeOut }}"
+     (@fadeAnimation.done)="onFadeFinished($event)">
+  <div
+    class="toast__left-border"
+    [ngClass]="toastState">
+  </div>
+
+  <div class="toast__main">
+    <div class="toast__icon">
+      <span
+        class="state-icon"
+        [style.background-image]="iconUrl | safe : 'style'">
+      </span>
+    </div>
+
+    <div class="toast__description">
+      <div class="toast__state">
+        {{ toastState }}
+      </div>
+
+      <div class="toast__message">
+        {{ data.message }}
+      </div>
+    </div>
+
+    <div
+      class="toast__close"
+      (click)="close()">
+      <span class="icon-close"></span>
+    </div>
+  </div>
+</div>
