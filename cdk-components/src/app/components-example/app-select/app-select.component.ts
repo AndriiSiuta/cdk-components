@@ -47,24 +47,15 @@ export class AppSelectComponent implements OnInit,
   // i should call on change callback for updating the state
 
   @Input() optionList: any[] = [];
-  @Input() config: OverlayConfig = {
-    maxHeight: '128px'
-  };
-  @Input() withoutSearch = false;
   @Input() model: any;
   @Input() labelKey = 'name';
   @Input() idKey: Udf<number>;
   @Input() placeholder = '';
-  @Input() withNone = true;
   @Output() selectedValue = new EventEmitter<any>();
 
   @Input('dropdownPosition')
   set dropdownPosition(value: ConnectedPosition[]) {
     this._dropdownPosition = value;
-  }
-
-  getWidth() {
-    return this.config && this.config.width;
   }
 
   private _dropdownPosition: ConnectedPosition[] = [{
