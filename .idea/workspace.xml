@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af8b1150-d3b9-48be-8068-2edd688ef9d3" name="Default Changelist" comment="" />
+    <list default="true" id="af8b1150-d3b9-48be-8068-2edd688ef9d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cdk-components.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast-animation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast-ref.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/app-tooltip.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/app-tooltip.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/app-tooltip.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/app-tooltip-directive.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/app-tooltip.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/outside-click.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/outside-click.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/pipes/safe-pipe/safe-pipe.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/pipes/safe-pipe/safe.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/services/dropdown.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/types/Udf.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/app/types/strMap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdk-components/yarn.lock" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,10 +74,128 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1700">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/types/Udf.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/app-tooltip-directive.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/outside-click.directive.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/outside-click.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@shared/</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cdk-components/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/services/dropdown.service.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.module.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/directives/app-tooltip.directive.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/directives/app-tooltip-directive.module.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/directives/outside-click.module.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.module.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.scss" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.html" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.module.ts" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.scss" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.html" />
+        <option value="$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-85" />
     <option name="y" value="186" />
     <option name="width" value="1920" />
@@ -26,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -34,17 +214,78 @@
               <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
               <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components-example" type="462c0819:PsiDirectoryNode" />
+              <item name="app-select" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cdk-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="cdk-components" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cdk-components/src/app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\User\WebstormProjects\cdk-components\cdk-components\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app\components-example\tooltip" />
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app" />
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app\components-example\directives" />
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app\components-example" />
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app\components-example\pipes" />
+      <recent name="C:\Users\User\WebstormProjects\cdk-components\cdk-components\src\app\services" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,12 +309,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562763617890</updated>
-      <workItem from="1562763620107" duration="323000" />
+      <workItem from="1562763620107" duration="1661000" />
+      <workItem from="1562765634591" duration="852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="323000" />
+    <option name="totallyTimeSpent" value="2513000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -85,28 +327,224 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32991803" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295562" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991803" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295562" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295562" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295562" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991803" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991803" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add some examples (ToDo: fix components, add ngrx-froms, add routes example)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some examples (ToDo: fix components, add ngrx-froms, add routes example)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cdk-components/node_modules/@angular/cdk/overlay.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/services/dropdown.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/toast/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/pipes/safe-pipe/safe.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/app-tooltip.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/app-tooltip-directive.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/outside-click.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/tooltip/directives/outside-click.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/types/Udf.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-simple-multiselect/app-simple-multiselect.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/toast/toast.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdk-components/src/app/components-example/app-select/app-select.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1700">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
